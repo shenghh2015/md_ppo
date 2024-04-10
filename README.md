@@ -1,1 +1,1 @@
-# dm_ppo
+# Distributed PPO training Deepspeed-Megatron framework #
