@@ -1,1 +1,1 @@
-# Distributed PPO training Deepspeed-Megatron framework #
+# A distributed training system based on Megatron-Deepspeed#

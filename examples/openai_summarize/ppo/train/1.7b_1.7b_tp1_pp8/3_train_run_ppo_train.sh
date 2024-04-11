@@ -75,7 +75,7 @@ LOCAL_HOST=0,1,2,3,4,5,6,7
 
 # tokenizer
 TOKENIZER_TYPE="PretrainedFromHF"
-TOKENIZER_NAME_OR_PATH=./step1_sft/bloom_add_ans_tokenizer
+TOKENIZER_NAME_OR_PATH="./step1_sft/bloom_add_ans_tokenizer"
 PAD_VOCAB_SIZE_TO=250880
 
 # no use
